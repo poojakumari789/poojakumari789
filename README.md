@@ -7,6 +7,18 @@ I'm a third-year Computer Science Engineering student interested in building pra
 Currently, I'm strengthening my development skills with a focus on JavaScript, React, Node.js, Express.js, and MongoDB while learning how complete web applications work from frontend to backend.
 
 ---
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=poojakumari789&show_icons=true&hide_border=true&rank_icon=github" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=poojakumari789&layout=compact&hide_border=true" height="170" />
+</p>
+
+## 🔥 Contribution Streak
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=poojakumari789&hide_border=true" />
+</p>
 
 🛠️ Tech Stack
 
